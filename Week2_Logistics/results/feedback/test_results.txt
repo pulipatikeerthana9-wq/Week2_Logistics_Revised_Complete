@@ -1,0 +1,21 @@
+test_example_has_no_identifier (test_feedback.FeedbackTests.test_example_has_no_identifier) ... ok
+test_order_denominator (test_feedback.FeedbackTests.test_order_denominator) ... ok
+test_postal_at_order_grain (test_feedback.FeedbackTests.test_postal_at_order_grain) ... ok
+test_tail_accounting (test_feedback.FeedbackTests.test_tail_accounting) ... ok
+test_clean_preserves_rows_and_removes_empty_and_private (test_pipeline.PipelineTests.test_clean_preserves_rows_and_removes_empty_and_private) ... ok
+test_conflicting_item_key_rejected (test_pipeline.PipelineTests.test_conflicting_item_key_rejected) ... ok
+test_constant_feature_scaling (test_pipeline.PipelineTests.test_constant_feature_scaling) ... ok
+test_exact_duplicate_removed (test_pipeline.PipelineTests.test_exact_duplicate_removed) ... ok
+test_extreme_sales_flagged_not_removed (test_pipeline.PipelineTests.test_extreme_sales_flagged_not_removed) ... ok
+test_invalid_date_rejected (test_pipeline.PipelineTests.test_invalid_date_rejected) ... ok
+test_missing_numeric_not_silently_imputed (test_pipeline.PipelineTests.test_missing_numeric_not_silently_imputed) ... ok
+test_missing_schema_rejected (test_pipeline.PipelineTests.test_missing_schema_rejected) ... ok
+test_negative_measurement_rejected (test_pipeline.PipelineTests.test_negative_measurement_rejected) ... ok
+test_postal_string_and_unknown_indicator (test_pipeline.PipelineTests.test_postal_string_and_unknown_indicator) ... ok
+test_scaling_preserves_units_and_bounds (test_pipeline.PipelineTests.test_scaling_preserves_units_and_bounds) ... ok
+test_unique_order_denominator (test_pipeline.PipelineTests.test_unique_order_denominator) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 3.695s
+
+OK

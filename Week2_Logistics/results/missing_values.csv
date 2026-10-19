@@ -1,0 +1,54 @@
+column,missing_before,missing_after,action
+Type,0,0.0,retained
+Days for shipping (real),0,0.0,retained
+Days for shipment (scheduled),0,0.0,retained
+Benefit per order,0,0.0,retained
+Sales per customer,0,0.0,retained
+Delivery Status,0,0.0,retained
+Late_delivery_risk,0,0.0,retained
+Category Id,0,0.0,retained
+Category Name,0,0.0,retained
+Customer City,0,0.0,retained
+Customer Country,0,0.0,retained
+Customer Email,0,,excluded
+Customer Fname,0,,excluded
+Customer Id,0,0.0,retained
+Customer Lname,8,,excluded
+Customer Password,0,,excluded
+Customer Segment,0,0.0,retained
+Customer State,0,0.0,retained
+Customer Street,0,,excluded
+Customer Zipcode,3,0.0,retained
+Department Id,0,0.0,retained
+Department Name,0,0.0,retained
+Latitude,0,0.0,retained
+Longitude,0,0.0,retained
+Market,0,0.0,retained
+Order City,0,0.0,retained
+Order Country,0,0.0,retained
+Order Customer Id,0,0.0,retained
+order date (DateOrders),0,0.0,retained
+Order Id,0,0.0,retained
+Order Item Cardprod Id,0,0.0,retained
+Order Item Discount,0,0.0,retained
+Order Item Discount Rate,0,0.0,retained
+Order Item Id,0,0.0,retained
+Order Item Product Price,0,0.0,retained
+Order Item Profit Ratio,0,0.0,retained
+Order Item Quantity,0,0.0,retained
+Sales,0,0.0,retained
+Order Item Total,0,0.0,retained
+Order Profit Per Order,0,0.0,retained
+Order Region,0,0.0,retained
+Order State,0,0.0,retained
+Order Status,0,0.0,retained
+Order Zipcode,155679,0.0,retained
+Product Card Id,0,0.0,retained
+Product Category Id,0,0.0,retained
+Product Description,180519,,excluded
+Product Image,0,,excluded
+Product Name,0,0.0,retained
+Product Price,0,0.0,retained
+Product Status,0,0.0,retained
+shipping date (DateOrders),0,0.0,retained
+Shipping Mode,0,0.0,retained

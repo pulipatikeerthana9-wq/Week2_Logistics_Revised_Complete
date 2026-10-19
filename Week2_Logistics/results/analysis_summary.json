@@ -1,0 +1,36 @@
+{
+  "order_item_rows": 180519,
+  "unique_orders": 65752,
+  "canceled_orders": 2855,
+  "non_canceled_orders": 62897,
+  "late_non_canceled_orders": 36048,
+  "late_non_canceled_pct": 57.31274941571141,
+  "mean_actual_shipping_days_non_canceled": 3.5015183554064584,
+  "mean_signed_delay_days_non_canceled": 0.5658934448383866,
+  "line_weighted_late_pct_all_statuses": 54.82913155955883,
+  "sales_min": 9.989999771,
+  "sales_max": 1999.98999,
+  "sales_mean_per_item": 203.77209608617287,
+  "shipping_modes_non_canceled": [
+    {
+      "Shipping Mode": "First Class",
+      "orders": 9602,
+      "late_rate": 1.0
+    },
+    {
+      "Shipping Mode": "Same Day",
+      "orders": 3407,
+      "late_rate": 0.48371000880540066
+    },
+    {
+      "Shipping Mode": "Second Class",
+      "orders": 12256,
+      "late_rate": 0.799853133159269
+    },
+    {
+      "Shipping Mode": "Standard Class",
+      "orders": 37632,
+      "late_rate": 0.3984640731292517
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "purpose": "descriptive full-dataset scaling only",
+  "formula": "(x - data_min) / (data_max - data_min)",
+  "features": {
+    "Sales": {
+      "data_min": 9.989999771,
+      "data_max": 1999.98999,
+      "output": "Sales_minmax"
+    },
+    "Order Item Quantity": {
+      "data_min": 1.0,
+      "data_max": 5.0,
+      "output": "Order Item Quantity_minmax"
+    },
+    "Days for shipping (real)": {
+      "data_min": 0.0,
+      "data_max": 6.0,
+      "output": "Days for shipping (real)_minmax"
+    }
+  }
+}

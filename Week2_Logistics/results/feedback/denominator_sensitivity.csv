@@ -1,0 +1,5 @@
+population,records,late_records,late_rate_pct
+"Item rows, all statuses",180519,98977,54.82913155955883
+"Item rows, non-canceled",172765,98977,57.28996035076549
+"Unique orders, all statuses",65752,36048,54.82418785740357
+"Unique orders, non-canceled",62897,36048,57.31274941571141

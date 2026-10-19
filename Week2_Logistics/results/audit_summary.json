@@ -1,0 +1,36 @@
+{
+  "raw_rows": 180519,
+  "raw_columns": 53,
+  "missing_before": {
+    "Customer Lname": 8,
+    "Customer Zipcode": 3,
+    "Order Zipcode": 155679,
+    "Product Description": 180519
+  },
+  "exact_duplicates_removed": 0,
+  "empty_columns_removed": [
+    "Product Description"
+  ],
+  "excluded_personal_or_irrelevant_columns": [
+    "Customer Email",
+    "Customer Password",
+    "Customer Fname",
+    "Customer Lname",
+    "Customer Street",
+    "Product Image"
+  ],
+  "clean_rows": 180519,
+  "clean_columns": 58,
+  "unique_orders": 65752,
+  "missing_after": 0,
+  "timestamp_difference_rows": 9737,
+  "late_rule_mismatch_rows": 4423,
+  "late_rule_mismatches_non_canceled": 0,
+  "input_sha256": "fa6d022ed437155e1a2f0378710602848703c8a7f203f7ff5d77805bf8480aa6",
+  "versions": {
+    "python": "3.13.13",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scikit_learn": "1.6.1"
+  }
+}

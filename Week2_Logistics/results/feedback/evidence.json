@@ -1,0 +1,23 @@
+{
+  "scope": "Calculated from historical DataCo cleaned data; no new cleaning applied",
+  "order_volume_inflation_pct": 174.5452609806546,
+  "known_postal_orders": 8270,
+  "orders": 65752,
+  "sales_tail_rows": 488,
+  "sales_tail_total": 715599.5395462001,
+  "sales_total": 36784735.01337984,
+  "sales_tail_share_pct": 1.9453709243410684,
+  "mean_sales_retained": 203.77209608617287,
+  "mean_sales_if_deleted": 200.34958131562703,
+  "sales_q1_minmax": 0.05527135887892284,
+  "sales_q3_minmax": 0.1457085496747328,
+  "cancellation_example": [
+    {
+      "Shipping Mode": "Standard Class",
+      "Delivery Status": "Shipping canceled",
+      "Days for shipping (real)": 6,
+      "Days for shipment (scheduled)": 4,
+      "Late_delivery_risk": 0
+    }
+  ]
+}
